@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-Quote-Machine-Redux-practice/static/css/main.c49ef4fc.css",
+    "main.js": "/Random-Quote-Machine-Redux-practice/static/js/main.aa03953c.js",
+    "static/js/787.7ca3d98a.chunk.js": "/Random-Quote-Machine-Redux-practice/static/js/787.7ca3d98a.chunk.js",
+    "index.html": "/Random-Quote-Machine-Redux-practice/index.html",
+    "main.c49ef4fc.css.map": "/Random-Quote-Machine-Redux-practice/static/css/main.c49ef4fc.css.map",
+    "main.aa03953c.js.map": "/Random-Quote-Machine-Redux-practice/static/js/main.aa03953c.js.map",
+    "787.7ca3d98a.chunk.js.map": "/Random-Quote-Machine-Redux-practice/static/js/787.7ca3d98a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49ef4fc.css",
+    "static/js/main.aa03953c.js"
+  ]
+}
