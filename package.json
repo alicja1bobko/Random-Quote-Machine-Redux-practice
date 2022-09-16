@@ -1,5 +1,6 @@
 {
   "name": "quote-machine-redux",
+  "homepage": "https://alicja1bobko.github.io/Random-Quote-Machine-Redux-practice/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,6 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -41,6 +44,7 @@
     "eslint": "^8.18.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.30.1",
+    "gh-pages": "^4.0.0",
     "prettier": "2.7.1",
     "prettier-eslint": "^9.0.0"
   }
